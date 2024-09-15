@@ -6,3 +6,6 @@ Credits to [codestation](https://github.com/codestation/) for making the tool to
 ## Index
 
 - [Weapon Models](weapons.md)
+- [Female Armor Models](female_armor.md)
+- [Male Armor Models](male_armor.md)
+- [Hairstyles](hairstyles.md)
