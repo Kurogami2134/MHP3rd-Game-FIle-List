@@ -382,7 +382,7 @@
 
 |File|File id|HD File|HD File id|Weapons|
 |-|-|-|-|-|
-|1802.pak|0709|1825.pak|0720|No Equipment<br>Old Yukumo Dual <br>Yukumo Duals|
+|1802.pak|0709|1825.pak|0720|No Equipment|
 |1803.pak|070A|1826.pak|0721|Rex Slicers<br>Tigrex Claws|
 |1804.pak|070B|1827.pak|0722|Hidden Gemini<br>Hidden Gemini+<br>Night Wings|
 |1805.pak|070C|1828.pak|0723|Akantor Blades|
@@ -397,7 +397,7 @@
 |1814.pak|0715|1837.pak|072C|Enduring Schism|
 |1815.pak|0716|1838.pak|072D|Brother Flames<br>Brother Blazes<br>Wyvern Lovers|
 |1816.pak|0717|1839.pak|072E|Wyvern Strife|
-|1817.pak|0718|1840.pak|072F|Yukumo Duals+<br>Yukumo Slicers<br>True Yukumo Duals<br>True Yukumo Duals+<br>Worship Dance Duals|
+|1817.pak|0718|1840.pak|072F|Old Yukumo Dual <br>Yukumo Duals<br>Yukumo Duals+<br>Yukumo Slicers<br>True Yukumo Duals<br>True Yukumo Duals+<br>Worship Dance Duals|
 |1818.pak|0719|1841.pak|0730|Usurper's Fulgur<br>Despot's Blitz|
 |1819.pak|071A|1842.pak|0731|Evil Monsoon|
 |1820.pak|071B|1843.pak|0732|Type 51 Macerators<br>Type 51 Macerators+<br>Deathsnarfs|
