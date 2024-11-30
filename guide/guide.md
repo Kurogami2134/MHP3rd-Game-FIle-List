@@ -252,7 +252,7 @@ You can load sound files as you would any other as explained in the [Loadin new 
 
 ### Using custom animations
 
-[This repo](https://github.com/Kurogami2134/mhp3rd-wpn-anim) contains python code to generate custom animations, and animation entries, which will work both on FU and P3rd. As well as `assembly` code to build a mod to load them, only in P3rd (no hd) currently.
+[This repo](https://github.com/Kurogami2134/mhp3rd-wpn-anim) contains python code to generate custom animations, and animation entries, which will work both on FU and P3rd. As well as `assembly` code to build (use [armips](#tools)) a mod to load them, only in P3rd (no hd) currently.
 
 #### Creating animations
 
@@ -363,6 +363,7 @@ In order to load custom animations both `spanimexp.bin` (the mod that makes the 
 - [audiotools](https://github.com/Kurogami2134/p3rd-hh-song-editing)
 - [MFAudio](https://www.zophar.net/utilities/ps2util/mfaudio-1-1.html)
 - [p3rd-wpn-anim](https://github.com/Kurogami2134/mhp3rd-wpn-anim)
+- [armips](https://github.com/Kingcom/armips)
 
 ## Other links
 
