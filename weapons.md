@@ -181,6 +181,7 @@
 
 |File|File id|HD File|HD File id|Weapons|
 |-|-|-|-|-|
+|1625.pak|0658|1648.pak|066F|Unused|
 |1626.pak|0659|1649.pak|0670|No Equipment<br>Bone Blaster<br>Bone Shooter+<br>Bone Buster|
 |1627.pak|065A|1650.pak|0671|Tropeco Gun<br>Tropeco Flambogun<br>Pecopious Gun|
 |1628.pak|065B|1651.pak|0672|Dual Threat<br>Dual Threat+<br>Diablazooka|
@@ -212,6 +213,7 @@
 
 |File|File id|HD File|HD File id|Weapons|
 |-|-|-|-|-|
+|1652.pak|0673|1675.pak|068A|Unused|
 |1653.pak|0674|1676.pak|068B|No Equipment<br>Cross Bowgun<br>Cross Bowgun+<br>Cross Blitz|
 |1654.pak|0675|1677.pak|068C|Hunter's Rifle<br>Sniper Shot|
 |1655.pak|0676|1678.pak|068D|Royal Launcher<br>Royal Turrent<br>Royal Cataract<br>Royal Inundation<br>Royal Noah|
@@ -236,6 +238,7 @@
 |1675.pak|068A|1698.pak|06A1|Black Tigrex Tank<br>Black Tigrex Panzer |
 |1676.pak|068B|1699.pak|06A2|Gourd Shot<br>Teasel Shot<br>Crookneck Shot|
 |1677.pak|068C|1700.pak|06A3|Kettleblower<br>Kettleblower Deluxe|
+|1678.pak|068D|1701.pak|06A4|Unused|
 
 ## Long Sword
 
@@ -350,6 +353,7 @@
 
 |File|File id|HD File|HD File id|Weapons|
 |-|-|-|-|-|
+|1773.pak|06EC|1796.pak|0703|Unused|
 |1774.pak|06ED|1797.pak|0704|Tiger Arrow<br>Tigrex Whisker|
 |1775.pak|06EE|1798.pak|0705|Hidden Bow I<br>Hidden Bow II<br>Night Flight|
 |1776.pak|06EF|1799.pak|0706|Akantor Wrathmaker|
@@ -377,6 +381,7 @@
 |1798.pak|0705|1821.pak|071C|Selene Moonbroken|
 |1799.pak|0706|1822.pak|071D|Kelbi Stingshot<br>Kelbi Strongshot|
 |1800.pak|0707|1823.pak|071E|Bamboo Taketori<br>Bamboo Okina<br>Bamboo Kaguya|
+|1801.pak|0708|1824.pak|071F|Unused|
 
 ## Dual Blades
 

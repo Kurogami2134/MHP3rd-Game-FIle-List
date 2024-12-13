@@ -4,6 +4,7 @@
 
 |File|File id|HD File|HD File id|Armor|
 |-|-|-|-|-|
+|1261.pak|04EC|1284.pak|0503|No Equipment|
 |1262.pak|04ED|1285.pak|0504|Leather Headgear<br>Leather Helm S<br>Leather Cap S|
 |1263.pak|04EE|1286.pak|0505|Chainmail Headgear<br>Chainmail Helm S<br>Chainmail Cap S|
 |1264.pak|04EF|1287.pak|0506|Jaggi Helm<br>Jaggi Helm S|
@@ -121,6 +122,7 @@
 
 |File|File id|HD File|HD File id|Armor|
 |-|-|-|-|-|
+|0761.pak|02F8|0784.pak|030F|No Equipment|
 |0762.pak|02F9|0785.pak|0310|Leather Vest<br>Leather Mail S<br>Leather Vest S|
 |0763.pak|02FA|0786.pak|0311|Chainmail Vest<br>Steel Mail<br>Chainmail Armor S<br>Chainmail Vest S<br>Steel Mail S|
 |0764.pak|02FB|0787.pak|0312|Jaggi Mail<br>Jaggi Mail S|
@@ -238,6 +240,7 @@
 
 |File|File id|HD File|HD File id|Armor|
 |-|-|-|-|-|
+|0886.pak|0375|0909.pak|038C|No Equipment|
 |0887.pak|0376|0910.pak|038D|Leather Gloves<br>Leather Vambraces S<br>Leather Guards S|
 |0888.pak|0377|0911.pak|038E|Chainmail Gloves<br>Steel Vambraces<br>Chainmail Braces S<br>Chainmail Guards S<br>Steel Vambraces S|
 |0889.pak|0378|0912.pak|038F|Jaggi Vambraces<br>Jaggi Vambraces S|
@@ -348,6 +351,7 @@
 
 |File|File id|HD File|HD File id|Armor|
 |-|-|-|-|-|
+|1011.pak|03F3|1034.pak|0409|No Equipment|
 |1012.pak|03F3|1035.pak|040A|Leather Belt<br>Leather Faulds S<br>Leather Coat S|
 |1013.pak|03F4|1036.pak|040B|Chainmail Belt<br>Steel Belt<br>Chainmail Faulds S<br>Chainmail Coat S<br>Steel Belt S|
 |1014.pak|03F5|1037.pak|040C|Jaggi Faulds<br>Jaggi Faulds S|
@@ -458,6 +462,7 @@
 
 |File|File id|HD File|HD File id|Armor|
 |-|-|-|-|-|
+|1136.pak|046F|1159.pak|0486|No Equipment|
 |1137.pak|0470|1160.pak|0487|Leather Pants<br>Leather Greaves S<br>Leather Leggings S|
 |1138.pak|0471|1161.pak|0488|Chainmail Pants<br>Chainmail Greaves S<br>Chainmail Leggings S|
 |1139.pak|0472|1162.pak|0489|Jaggi Greaves<br>Jaggi Greaves S|
