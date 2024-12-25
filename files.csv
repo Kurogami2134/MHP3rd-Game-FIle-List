@@ -1777,6 +1777,9 @@
 1868.pak,player/f/bath.pac
 1869.pak,player/m/bath.pac
 
+2817.bin,string_tables/house_bookshelf.bin
+2818.bin,string_tables/training+quest_misc+skill_descriptions.bin
+2819.bin,string_tables/gallery.bin
 2820.bin,quests/village/1star/qst000.mib
 2821.bin,quests/village/1star/qst001.mib
 2822.bin,quests/village/1star/qst002.mib
@@ -2674,9 +2677,9 @@
 5348.bin,em/animation/em041.bin
 5349.mwo,overlays/em/em042m0.ovl
 5350.mwo,overlays/em/em042m1.ovl
-5341.pak,em/model/em042.pac
-5342.bin,em/model/em042.bin
-5343.bin,em/animation/em042.bin
+5351.pak,em/model/em042.pac
+5352.bin,em/model/em042.bin
+5353.bin,em/animation/em042.bin
 5354.mwo,overlays/em/em043m0.ovl
 5355.mwo,overlays/em/em043m1.ovl
 5356.pak,em/model/em043.pac
