@@ -120,61 +120,60 @@
 
 # Weapons
 
-|File|Part|
+|File|Weapon|
 |-|-|
+|4136.pak|No Equipment|
 |4137.pak|Bone Pick|
-|4138.pak|Jaggi Knife|
-|4139.pak|Machalite Pick|
-|4140.pak|Woodcutter's Axe|
-|4141.pak|Barrel Hammer|
-|4142.pak|Unused|
-|4143.pak|Unused|
-|4144.pak|Unused|
-|4145.pak|Unused|
-|4146.pak|Unused|
-|4147.pak|Unused|
-|4148.pak|Unused|
-|4149.pak|Unused|
-|4150.pak|Unused|
-|4151.pak|Unused|
-|4152.pak|Unused|
-|4153.pak|Unused|
-|4154.pak|Unused|
-|4155.pak|Unused|
-|4156.pak|Unused|
-|4157.pak|Unused|
-|4158.pak|Unused|
-|4159.pak|Unused|
-|4160.pak|Unused|
-|4161.pak|Unused|
-|4162.pak|Unused|
-|4163.pak|Unused|
-|4164.pak|Unused|
-|4165.pak|Unused|
-|4166.pak|Unused|
-|4167.pak|Unused|
-|4168.pak|Unused|
-|4169.pak|Unused|
-|4170.pak|Unused|
+|4138.pak|Paw Punch|
+|4139.pak|Warrior Long Sword|
+|4140.pak|Rathian Rapier|
+|4141.pak|Rathalos Sword|
+|4142.pak|Qurupeco Tomahawk|
+|4143.pak|Gigginox Trident|
+|4144.pak|Barioth Knife|
+|4145.pak|Diablos Hammer|
+|4146.pak|Vangis Hammer|
+|4147.pak|Barroth Scepter|
+|4148.pak|Mewragaan Maul|
+|4149.pak|Ludroth Claws|
+|4150.pak|Agnaktor Lance|
+|4151.pak|War Banner|
+|4152.pak|Escadora Scythe|
+|4153.pak|Tigrex Hammer|
+|4154.pak|Nargacuga Shuriken|
+|4155.pak|Akantor Sword|
+|4156.pak|Ukanlos Shovel|
+|4157.pak|Zinogre Sword|
+|4158.pak|Storm Sword|
+|4159.pak|Nibelsnarf Rifle|
+|4160.pak|Duram Axe|
+|4161.pak|Jaggi Knife|
+|4162.pak|Baggi Baton|
+|4163.pak|Arzuros Cudgel|
+|4164.pak|Wroggi Guitar|
+|4165.pak|Lagombi Staff|
+|4166.pak|Volvidon Lantern|
+|4167.pak|Bull Tusk Hammer|
+|4168.pak|Grill Drumstick|
+|4169.pak|Rhenoplos Hammer|
+|4170.pak|Bnahabra Dagger|
 |4171.pak|Unused|
-|4172.pak|Unused|
-|4173.pak|Unused|
-|4174.pak|Unused|
+|4172.pak|Yukumo Wood Sword|
+|4173.pak|Lily Rod|
+|4174.pak|Guild Rapier|
 |4175.pak|Unused|
-|4176.pak|Unused|
-|4177.pak|Unused|
-|4178.pak|Unused|
-|4179.pak|Unused|
-|4180.pak|Unused|
+|4176.pak|Bone Maul|
+|4177.pak|Iron Sword|
+|4178.pak|Mosgharl Broom|
+|4179.pak|Lilypad Umbrella|
+|4180.pak|Pirate J Key|
 |4181.pak|Unused|
-|4182.pak|Unused|
-|4183.pak|Unused|
-|4184.pak|Unused|
-|4185.pak|Unused|
-|4186.pak|Unused|
-|4187.pak|Unused|
-|4188.pak|Unused|
-|4189.pak|Unused|
-|4190.pak|Unused|
-|4191.pak|Unused|
-
+|4182.pak|Demon King Sword|
+|4183.pak|Solid Snake Knife|
+|4184.pak|UT Project Canister|
+|4185.pak|Machalite Pick|
+|4186.pak|Acorn Hammer|
+|4187.pak|Talon Pick|
+|4188.pak|Barrel Hammer|
+|4189.pak|Warrior Hammer|
+|4190.pak|Woodcutter's Axe|
