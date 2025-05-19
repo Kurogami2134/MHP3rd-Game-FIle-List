@@ -132,15 +132,24 @@ All materials can be edited to have custom `Diffuse` and  `Ambient` values, as w
 
 Additionally, PMO export supports features not used by the game, as [Backface Culling](#glossary), [Custom texture filters](#glossary) and [Alpha blending](#glossary).
 
-To use those features, custom attributes must be added to the mesh in Blender.
+To use those features, custom attributes and/or object properties must be added in Blender.
 
-The following are the currently working attributes:
+Object properties:
+
+|Property|Values|
+|-|-|
+|PMO Alpha Blending Params|0 to 255|
+|PMO Light Distance Attenuation Factor|0 to 255|
+
+
+The following are the currently working mesh attributes:
 
 |Atribute|Info|Values|
 |-|-|-|
 |PMO Backface Culling|Enable or disable backface culling|0 or 1|
 |PMO Alpha Test Enable|Enable or disable alpha blend|0 or 1|
 |PMO Texture Filter|Set custom texture filters|XY, X being minification filter, and Y magnification filter. Both X and Y must be a texture filter, and a texture filter attribute or-ed together|
+|PMO Shade Flat||0 or 1|
 
 * All these attributes must be set as integers, and per face.
 
