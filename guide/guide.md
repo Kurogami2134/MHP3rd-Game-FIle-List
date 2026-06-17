@@ -203,6 +203,52 @@ Information on how to set up FUComplete can be found at the project's [site](htt
 
 And info on how to use it to replace files can be found [here](https://fucomplete.github.io/docs/fuctool/file_replacer.html).
 
+### Animations
+
+Animations are stored in `bin` files, some are listed, some aren't. You can extract animations using the [script](https://github.com/Kurogami2134/blender_p3rd_anim/blob/main/anim_pack_tools.py) included with the [animation import/export add-on](https://github.com/Kurogami2134/blender_p3rd_anim) or import them directly. You need to use the script to get your animations in game.
+
+#### Script usage
+
+- Extract animations
+
+        py anim_pack_tools.py -e <file>
+
+- Rebuild animation packs
+
+        py anim_pack_tools.py -r <dir>
+
+#### Add-on usage
+
+##### Import setup
+
+In order to import animations you need a working armature, you can get one from the game using *&'s [pmo importer](#tools). For hunters you can get armature from any chest piece, and you can get a monster's from it's pac file.
+
+##### Import
+
+You can import extracted animations or whole packs.
+
+![import menu](assets/anim_import.png)
+
+When importing there's two fields you can modify. `Bone Offset` determines which bone in your skeleton should be treated as bone 0 (`NULL` in the game), leave it at 2 if using game skeletons. And `Bones to skip` lets you provide a list of bones (ids, separated by commas) in the skeleton that should not be animated. Refer to [this list](https://github.com/Kurogami2134/blender_p3rd_anim/blob/main/skipped_bones.md) to find which bones should be skipped for monsters.
+
+![import settings](assets/anim_import_settings.png)
+
+##### Export
+
+When exporting there are some extra fields you can set.
+
+- [ ] Loop. Check this box if you want your animation to loop.
+
+- Loop Start. Set the frame to start looping from, ignored if loop is set to off.
+
+- Bone Count. Lets you specify a bone count, bones with IDs exceeding this number won't have their animations exported. If you don't have enough animated bones, "empty" animation data will be automatically added for those. 
+
+![export settings](assets/anim_export_settings.png)
+
+#### Loading animations
+
+Refer to [Loading new files](#loading-new-files)
+
 ### Installing mhp3reload
 
 First get the latest release, either from [Github](https://github.com/Kurogami2134/mhp3reload_hd) (for [HD version](https://github.com/Kurogami2134/mhp3reload_hd)) or [Gamebanana](https://gamebanana.com/mods/543059).
@@ -364,6 +410,7 @@ In order to load custom animations both `spanimexp.bin` (the mod that makes the 
 - [Blender 4.2](https://www.blender.org/download/releases/4-2/)
 - [PMO Importer Add-on](https://github.com/AsteriskAmpersand/PMO-Importer)
 - [PMO export Add-on](https://github.com/Kurogami2134/pmo_export)
+- [Anim Import/Export Add-on](https://github.com/Kurogami2134/blender_p3rd_anim)
 - [FUComplete](https://fucomplete.github.io/)
 - [mhp3reload](https://github.com/Kurogami2134/mhp3reload)
 - [mhp3reload_hd](https://github.com/Kurogami2134/mhp3reload_hd)
