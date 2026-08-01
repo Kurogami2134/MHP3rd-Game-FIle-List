@@ -3084,6 +3084,16 @@
 4189.pak,felyne/weapon/we053.pac
 4190.pak,felyne/weapon/we054.pac
 4191.bin,anim/hunter.bin
+4192.bin,player/animation/intro.bin
+4193.bin,player/animation/guild_card_poses.bin
+4194.bin,npc/animation/instructor.bin
+4195.bin,player/animation/special.bin
+4196.bin,player/animation/gathering_hall.bin
+4197.bin,player/animation/gathering.bin
+
+4199.bin,felyne/animation/main.bin
+4200.bin,felyne/animation/lobby.bin
+4201.bin,felyne/animation/training.bin
 
 4591.mwo,overlays/maps/00/P_v00.ovl
 4592.mwo,overlays/maps/01/P_m01.ovl

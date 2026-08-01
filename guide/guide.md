@@ -251,15 +251,23 @@ Refer to [Loading new files](#loading-new-files)
 
 ### Installing mhp3reload
 
-First get the latest release, either from [Github](https://github.com/Kurogami2134/mhp3reload_hd) (for [HD version](https://github.com/Kurogami2134/mhp3reload_hd)) or [Gamebanana](https://gamebanana.com/mods/543059).
+#### Getting your files ready
 
-Then get any IPS patcher, you can get [LunarIPS](#tools) from the tools section.
+You need to get the latest release for [mhp3reload Mod Manager from Gamebanana](https://gamebanana.com/tools/19380) and extract it to `ms0:/PSP/GAMES/`.
 
-Make a backup of your ISO, and apply the patch that came with the release.
+Make sure your ISO file is accesible to ModMan by placing it in your memory stick folder or any sub directories. (i.e `ms0:/ISO/`)
 
-Then extract the `rar` file that came with it to the root of your memory stick, or your `PPSSPP` folder (`memstick` on portable installs). You should get a file structure that looks like this. (You only need the tree for the version you're trying to install)
+ * `ms0:/` is the root of your memory stick, or your `PPSSPP` folder (`memstick` on portable installs).
 
 ![install tree](assets/installtree.png)
+
+ * You should probably make a backup of your ISO.
+
+#### Applying the patch
+
+Run Mod Man (you can find it in the `Homebrew & Demos` tab in PPSSPP). Press triangle to start the patching process, locate your iso and press confirm to patch. Wait for the patch to finish and mhp3reload should be installed.
+
+ * Don't forget to enable and apply your mods. There's a title screen mod included with Mod Man, you can use it to test if mods are working.
 
 ### Editing sounds
 
